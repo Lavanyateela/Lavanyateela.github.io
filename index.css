@@ -1,0 +1,46 @@
+
+body{
+    background-image: url('https://thumbs.dreamstime.com/z/just-be-yourself-wooden-heart-smile-emoji-bokeh-light-background-just-be-yourself-heart-smile-emoji-125814112.jpg');
+    width: 100%;
+    background-repeat: no-repeat;
+    block-size: fit-content;
+    background-size: cover;
+}
+
+h1{
+    text-transform: capitalize;
+    text-align: center;
+    padding-left: 50%;
+    height: auto;
+    color: blue;
+}
+
+ul{
+    text-align: center;
+}
+
+li{
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-graph;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+a{
+    font-size: larger;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    color: black;
+}
+
+.navbar-brand{
+    float: right;
+}
+
+.container {
+    position: fixed;
+    right: 0px;
+    float: right;
+  }

@@ -1,0 +1,84 @@
+.fa {   
+text-align: center;  
+  margin: 5px 2px;  
+  font-size: 30px;  
+  width: 50px;  
+}  
+
+.fa-linkedin {  
+  background: #007bb5;  
+  color: white;  
+  align-items: center;
+  width: 5%;
+  height: 20%;
+}  
+.fa-instagram {  
+  background: #125688;  
+  color: white;  
+  align-items: center;
+  width: 5%;
+  height: 20%;
+}  
+
+.fa-whatsapp{
+  background: #007bb5;
+  color: aliceblue;
+  align-items: center;
+  width: 5%;
+  height: 20%;
+}
+
+.fa-github{
+  background: #007bb5;
+  color: aliceblue;
+  align-items: center;
+  width: 5%;
+  height: 20%;
+}
+
+
+li{
+  font-family: 'Times New Roman', Times, serif;
+  display: inline-graph;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+a{
+  font-size: larger;
+  font-weight: bolder;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-transform: uppercase;
+  color: black;
+  text-align: center;
+}
+
+body
+{
+background-image: url('https://i.pinimg.com/736x/e3/30/ae/e330aee3cbb68cb038cba3bc5d41b62a.jpg');  
+    width: 100%;
+    background-repeat: no-repeat;
+    block-size: fit-content;
+    background-size: cover;
+}
+
+.navbar-brand{
+  float: right;
+}
+
+.container {
+  position: fixed;
+  right: 0px;
+  float: right;
+}
+
+ul{
+  padding-top: 25%;
+  padding-left: 25%;
+}
+
+h1{
+  text-align: left;
+  font-style: oblique;
+  color: blue;
+}

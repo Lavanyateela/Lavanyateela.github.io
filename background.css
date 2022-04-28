@@ -1,0 +1,33 @@
+body {
+    background-image: url('https://i.pinimg.com/originals/e4/66/04/e466048125f1cd832d848cd4a476388a.jpg');
+    height:auto;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+
+li{
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-graph;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+a{
+    font-size: larger;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    color: black;
+}
+
+.navbar-brand{
+    float: right;
+}
+
+.container {
+    position: fixed;
+    right: 0px;
+    float: right;
+  }
